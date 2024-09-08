@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "20240908 Blog2024"
+  title: "Blog of Events: 2024"
   navbar:
     right:
       - about.qmd
