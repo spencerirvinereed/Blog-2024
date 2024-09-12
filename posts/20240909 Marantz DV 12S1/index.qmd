@@ -2,6 +2,7 @@
 title: "Marantz DV 12S1"
 author: "DK"
 date: "2024-09-09"
+draft: yes
 categories: [audio]
 ---
 
@@ -19,7 +20,7 @@ It has a mind of its own.
 
 There is a cheap fix (\$5!) for your problem, the same one I just dealt with. There is a plastic gear which makes the tray slide in and out. It wears with use and exposure to our polluted atmosphere. Look on ebay for a replacement, different versions for different transports. You can replace the gear yourself, or buy it off ebay and take it with your player to a tech.
 
----
+------------------------------------------------------------------------
 
 Suggested selling price: \$300
 

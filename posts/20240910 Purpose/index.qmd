@@ -2,6 +2,7 @@
 title: "Life Objective"
 author: "DK"
 date: "2024-09-10"
+draft: yes
 categories: [purpose]
 ---
 
@@ -13,51 +14,41 @@ She answered,
 
 Like many important concepts the idea had been simplified and captured in 4 character format.
 
-----
+------------------------------------------------------------------------
 
 ## 3 Decisions in Life
 
-Growing up my mother mentioned, a number of times, that her family has practiced medicine - both western and eastern.
-Without saying directly, she was encouraging me to continue that tradition.
+Growing up my mother mentioned, a number of times, that her family has practiced medicine - both western and eastern. Without saying directly, she was encouraging me to continue that tradition.
 
-I could not envision myself as a doctor and I never considered it.
-Reasoned that in the future, technology would pervade society.
-Following my sister's lead^[she had double degrees in Chemical and Electrical Engineering, plus a masters in EE], I chose to study Engineering.
+I could not envision myself as a doctor and I never considered it. Reasoned that in the future, technology would pervade society. Following my sister's lead[^1], I chose to study Engineering.
 
----
+[^1]: she had double degrees in Chemical and Electrical Engineering, plus a masters in EE
 
-Similarly my parents didn't say or give directions on dating and marriage, directly.
-Their marriage was an arranged marriage.
-Perhaps it was their response or reaction to past generations' effort to arrange marriages.
-Or they were unfamiliar with the new way of courtship.
+------------------------------------------------------------------------
 
-However when I started dating Korean persons after the mission, they expressed their approval.
-The challenge became, finding that person of similar heritage that shared the same spiritual direction.
-There were not that many Koreans that belonged to the church.
+Similarly my parents didn't say or give directions on dating and marriage, directly. Their marriage was an arranged marriage. Perhaps it was their response or reaction to past generations' effort to arrange marriages. Or they were unfamiliar with the new way of courtship.
 
----
+However when I started dating Korean persons after the mission, they expressed their approval. The challenge became, finding that person of similar heritage that shared the same spiritual direction. There were not that many Koreans that belonged to the church.
+
+------------------------------------------------------------------------
 
 The decision on the spiritual direction was made for me by my parents.
 
-From the earliest days, and it was always cold in those days, we would attend church meetings.
-I remember walking to 화랑 고회 at night and could hear the animal sound in the distant.
+From the earliest days, and it was always cold in those days, we would attend church meetings. I remember walking to 화랑 고회 at night and could hear the animal sound in the distant.
 
-It was 장로교회 until missionaries came.
-Then at age of 8.5 I was baptized along with my siters and my mother.^[my father waited 5 years]
+It was 장로교회 until missionaries came. Then at age of 8.5 I was baptized along with my siters and my mother.[^2]
 
-I didn't question the church or the gospel growing up.
-I did have a period where I was questioning myself, 
+[^2]: my father waited 5 years
 
-Who am I?
-What is my purpose in life?
+I didn't question the church or the gospel growing up. I did have a period where I was questioning myself,
+
+Who am I? What is my purpose in life?
 
 I am grateful that my parents had the love and patience to help me through this stage.
 
 ## LA Mission and BYU
 
-Though no one had encouraged me to serve a mission.
-Saw the good people around me who did.
-And the church friends that I had met during the last part of High School.
+Though no one had encouraged me to serve a mission. Saw the good people around me who did. And the church friends that I had met during the last part of High School.
 
 I went.
 
@@ -69,26 +60,20 @@ An immigrant in a promise land with a purpose, to establish a home and raise a f
 
 Continue to date and went to the Korean Branch
 
-Went to a skiing trip.
-(See an alternate view)
+Went to a skiing trip. (See an alternate view)
 
---- 
+------------------------------------------------------------------------
 
 Purpose of Temples Western and Eastern
 
-Story of the Tiger and Bear
-What Koreans need to learn
-Patience
+Story of the Tiger and Bear What Koreans need to learn Patience
 
 What Jews need to learn
 
-To be a Zion people.
-Door Portal is available
-Knock and it shall be opened.
+To be a Zion people. Door Portal is available Knock and it shall be opened.
 
----
+------------------------------------------------------------------------
 
 Sister K has been that,
 
->woman who is a wise mother for her children and a good wife for her husband.
-
+> woman who is a wise mother for her children and a good wife for her husband.

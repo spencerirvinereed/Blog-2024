@@ -2,6 +2,7 @@
 title: "Blog Quarto"
 author: "DK"
 date: "2024-09-11"
+draft: yes
 categories: [blog]
 ---
 
