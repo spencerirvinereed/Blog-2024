@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "DK"
+date: "2024-09-06"
+categories: [intro]
+---
+
+Happenings and Thoughts in the latter half of 2024.
+
+Author
+
+6 September 2024

@@ -1,0 +1,49 @@
+---
+title: "Blog Quarto"
+author: "DK"
+date: "2024-09-11"
+categories: [blog]
+---
+
+## Overview with Happy Git for R User
+
+https://happygitwithr.com/
+
+Quick Start
+https://www.youtube.com/watch?v=kL6L2MNqPHg
+
+RUser Version (an hour long)
+
+https://www.youtube.com/watch?v=u4LIpYC0Yaw
+
+Version Control
+https://www.youtube.com/watch?v=tYGBT1T2JvU&list=PLmNrK_nkqBpJtNdQBPhPWjIFRYeFOGfJ1
+
+
+---
+
+## My First Steps with Blogging 
+
+Learned to use Quarto and Git to set up my weblogs
+
+<https://www.youtube.com/watch?v=YoKjBcuUP0s>
+
+This the one that started it all.
+
+Use Github Desktop to push content
+
+Key Learning, change `_site` to `docs`
+
+Another approach, using Posit Cloud
+
+https://www.youtube.com/watch?v=AkKbPhK83bE
+
+---
+
+How to build a website
+https://www.youtube.com/watch?v=j2Ft-3Qv2O8
+Uploading Projects
+https://www.youtube.com/watch?v=arzBRW5XIkg&t=59
+
+How to build a electronic book. https://www.youtube.com/watch?v=IqB-zVc5NgI
+
