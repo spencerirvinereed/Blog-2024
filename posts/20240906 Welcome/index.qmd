@@ -2,7 +2,6 @@
 title: "Welcome To My Blog"
 author: "DK"
 date: "2024-09-06"
-draft: yes
 categories: [intro]
 ---
 

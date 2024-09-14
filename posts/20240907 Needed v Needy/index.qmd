@@ -1,5 +1,5 @@
 ---
-title: "Needs vs Needed"
+title: "Needy vs Needed"
 author: "Manis Friedman"
 date: "2024-09-07"
 categories: [needs]
