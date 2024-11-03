@@ -1,0 +1,65 @@
+---
+title: "Japanese Language Proficiency Test"
+author: "DK"
+date: "2024-09-30"
+draft: yes
+categories: [language]
+---
+
+Here is a tabulated list of the Japanese Language Proficiency Test (JLPT) levels:
+
+| **Level** | **Proficiency**    | **Description**                                                                                                                             | **Vocabulary**  | **Kanji**      | **Listening**                                    |
+|--------|--------|--------------------------------|--------|--------|--------|
+| **N5**    | Beginner           | Basic understanding of Japanese, focuses on simple phrases, sentences, and kanji commonly used in daily conversations.                      | \~800 words     | \~100 kanji    | Simple conversations in daily life.              |
+| **N4**    | Upper Beginner     | Basic grasp of grammar, vocabulary, and kanji used in everyday life.                                                                        | \~1,500 words   | \~300 kanji    | Understands daily conversations.                 |
+| **N3**    | Intermediate       | Can understand everyday Japanese at a moderate level and some more complex grammar and vocabulary.                                          | \~3,000 words   | \~650 kanji    | Can follow daily conversations at natural speed. |
+| **N2**    | Upper Intermediate | Comprehends a wider range of everyday topics and has a good command of both written and spoken Japanese, including newspapers and TV shows. | \~6,000 words   | \~1,000 kanji  | Can follow conversations at natural speed.       |
+| **N1**    | Advanced           | Fully proficient in Japanese, including advanced vocabulary, grammar, and kanji; suitable for professional and academic environments.       | \~10,000+ words | \~2,000+ kanji | Can comprehend complex, fast conversations.      |
+
+The levels progress from N5 (basic) to N1 (advanced), with each level assessing different degrees of reading, listening, and language comprehension skills.
+
+The Japanese Language Proficiency Test (JLPT) is a standardized test that evaluates and certifies the proficiency of non-native speakers in Japanese. The test has five levels, from N5 (the easiest) to N1 (the most difficult). Here’s a breakdown of the levels:
+
+### 1. **N5 (Beginner)**
+
+-   **Focus**: Basic understanding of Japanese.
+-   **Skills**: Can read and comprehend typical expressions and sentences written in hiragana, katakana, and basic kanji.
+-   **Vocabulary**: About 800 words.
+-   **Grammar**: Basic sentence patterns.
+-   **Listening**: Can understand simple conversations related to daily life spoken slowly.
+
+### 2. **N4 (Upper Beginner)**
+
+-   **Focus**: Grasp of elementary Japanese.
+-   **Skills**: Can read and understand passages on familiar everyday topics using basic vocabulary and kanji.
+-   **Vocabulary**: About 1,500 words.
+-   **Grammar**: Fundamental grammatical structures.
+-   **Listening**: Can understand conversations in everyday situations, spoken at a slower speed.
+
+### 3. **N3 (Intermediate)**
+
+-   **Focus**: Transitional level between beginner and advanced.
+-   **Skills**: Can understand Japanese used in everyday situations to a certain degree.
+-   **Vocabulary**: About 3,000 words.
+-   **Grammar**: More complex sentence patterns.
+-   **Listening**: Can comprehend conversations in daily life at near-normal speed, and grasp general ideas of spoken content on familiar topics.
+
+### 4. **N2 (Upper Intermediate)**
+
+-   **Focus**: Full understanding of daily life Japanese and some business scenarios.
+-   **Skills**: Can read materials on various topics such as news articles and comprehend more complex written and spoken Japanese.
+-   **Vocabulary**: Around 6,000 words.
+-   **Grammar**: Advanced grammar points.
+-   **Listening**: Can follow conversations at natural speed, understand the flow of arguments, and grasp the details of written materials.
+
+### 5. **N1 (Advanced)**
+
+-   **Focus**: Mastery of Japanese for professionals, including academic and business contexts.
+-   **Skills**: Can understand complex articles on various topics, including abstract, literary, and technical subjects.
+-   **Vocabulary**: Over 10,000 words.
+-   **Grammar**: Highly advanced and nuanced use of the language.
+-   **Listening**: Ability to follow complex conversations, including abstract and technical content, spoken at natural speed.
+
+The JLPT does not include a speaking component, and it focuses on reading, listening, grammar, and vocabulary. Many employers and educational institutions in Japan use the JLPT as a measure of language ability.
+
+For more detailed information about each level, visit the [official JLPT website](https://www.jlpt.jp/e/about/levelsummary.html).

@@ -1,0 +1,39 @@
+---
+title: "MAC Collection"
+author: "DK"
+date: "2024-09-28"
+draft: yes
+categories: [technology]
+---
+
+## Dual Core 2
+
+iMovie and
+
+Garageband
+
+Also Apogee Duet is possible.
+
+## Mac Pro 1,1
+
+## Mac Pro 3,1
+
+## Mac Pro 4,1/5,1
+
+Why do I keep these hardware in today's world.
+
+Because it does what it was designed to do.
+
+## PrimeFilm 3650u Installation
+
+<https://www.scanace.com/product/all-models-driver-download-user-guide>
+
+Download the driver and the firmware from above site.
+
+Be sure to deactivate the `dMisc.`
+
+Set the resolution to 1800 to 2400 dpi
+
+Slide is positive
+
+Negative is positive

@@ -1,0 +1,39 @@
+---
+title: "Combine Photo Music"
+author: "DK"
+date: "2024-09-21"
+categories: [DIY]
+---
+
+## Problem
+
+Footage captured with cellphones, DSLRs and solid state portable recorders
+
+Create an output that contains photos, video clips overlaid unto audio track.
+
+
+Creating a music video with iMovie
+
+## Collect Still Images (photographs)
+
+Place them in the Movie Library by either importing or drag-and-drop method.
+
+## Videos
+
+iMovie is not compatible with .MP4 format.
+Convert to .MOV format
+
+## Multiple Tracks
+
+Zoom H2n can create a 4-channel recording.
+The recording is saved in 2 separate files.
+
+- SR0001MS.WAV (The first file of MS, Side Microphones)
+- SR0002XY.WAV (The first file of XY, Main 90-degree Microphones)
+
+After photographs and videos are inserted in the Timeline, import tracks.
+
+## Lessons Learned
+
+- adding multiple tracks in iMovie
+- mix multiple tracks into a stereo stream in Audacity
