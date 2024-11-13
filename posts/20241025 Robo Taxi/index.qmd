@@ -1,29 +1,141 @@
 ---
-title: "Robo Taxi"
+title: "Open Air Zoo"
 author: "DK"
 date: "2024-10-25"
-draft: yes
-categories: [culture  ]
+categories: [recollection]
 ---
 
-An option on the Robo Taxi I would like to see.
+An option on the Robo Taxi that I would like to see.
 
 A programmable driver with the language of your choice.
 
-Based on my travel days, taxi cab drivers can be the mobile philosophers, if you ask the right questions.
+Based on my travel days, taxi cab drivers can be the mobile philosophers, if you ask right questions.
 
-Some comments
+Some comments I remember,
 
--   your hearing is more 간사 than eyes. He was an audiophile
+-   your hearing is more 간사(奸詐, deceitful) than eyes. He was an audiophile
 
--   your pronounciation is way too high, please speak with lower tone.
+-   your pronunciation is way too high, please speak with a lower tone.
 
--   we don't leave this open air zoo because this is where our lives are supported.
+-   we don't leave this open air zoo, because this is where our lives are sustained.
 
-That comment was from a driver at a city-state nation.
+Except for a time in Korea, I would have talk to more to drivers, but often language was the issue.
 
-I would talk to more, if language is not the issue.
+The last comment was made by a driver at a city-state nation. A nation with 4 official languages, and English with an local accent, was one of them.
 
-What kept that driver in the Zoo.
+As I recall, the way he said it, it was more of resignation rather than appreciation.
 
-What risks to success, freedom to fail.
+Wondered over the years what that driver meant by `open-air zoo` and why he chose to stay, if he felt that his freedom was limited.
+
+------------------------------------------------------------------------
+
+Unlike that Taxi Driver, who had an option to stay or go,\
+My parents never had that option or freedom.
+
+They were born into a nation in political bandage, a nation under forced occupation
+
+![](images/514691694.610559.jpg)
+
+For my mother after a brief taste of liberation, Russia backed regime began a reform.
+
+A transition from occupied nation with limited personal freedom, a Socialism towards a full-scale Communism, with centralized control.
+
+A system that took away economic freedoms, that is, ownership of properties and control of means of producing goods and services -- that was allowed and flourished under Japanese occupation.
+
+For my father, he left North and learned the leather trade in the South. When the Japanese left, he became an owner of a house in the 영등포 area of Seoul, previously owned by the manager -- at a age of 15.
+
+Ironically he was inducted into the South Korean Army and fought against people from his 고향 (Hometown, in North Korea)[^1].
+
+[^1]: partial war experience, [link](https://spencerirvinereed.github.io/RC-Trail-Stories/posts/20240606%20Private%202904610/)
+
+![](images/IMG_3950 (1)-01.jpg)
+
+The aftermath of war meant a reset and a new battle, this time against poverty.
+
+But freedom was preserved for the half of the nation
+
+\[For a discussion on my mother's escape from the North please refer to this entry, [link](https://oakhi.github.io/Life-Begins-When/posts/20231212%20Sayings%20of%20My%20Parents/#a-story-of-an-escape-from-north-korea)\]
+
+After 2 decades of economic struggles under a limited form, an authoritarian democracy, my parents established a home in 부평, 주안 area of Incheon
+
+Those days of scarcity people clung to many forms of religion For us we were Protestant, Presbyterians in particular. It had been chosen by mother's forefathers and foremothers A spiritual transition then occurred
+
+![](images/EPSON134.JPG)
+
+------------------------------------------------------------------------
+
+For my parents, achieving a full measure of all forms of freedom occurred when they moved to America and made their home in Greenbelt Maryland some 50 years ago.
+
+I never heard them murmur or complain about their new homeland
+
+Only an expression of gratitude for an opportunity to fully engage in a dream, a continuation of a national experiment and personal endurance
+
+Although in their mid 40s they had the energy and hope of much younger persons -- fueled by this new chance in a land of freedom
+
+For them, they had hoped for, continued to endure, and eventually found their full freedom.
+
+I, on the other hand, had known only freedoms
+
+I have reaped the fruits of nation of freedom and fierce work ethics of immigrants
+
+> What have I done with it? What will I do going forward?
+
+Less murmuring and more focused effort, both at home and at work
+
+Less comparison and judging of people and nations but more understanding and effort towards principles of Lincoln. A government of, by and for people. Especially for the people of North Korea
+
+Less attachment and reliance, to materials and on comfort.
+
+Model simple, frugal living of my parent’s generation.
+
+Provide means and ways for younger generations to succeed as participants in this continuing experiment of representative/participatory government and economy.
+
+![](images/20241028_181956.jpg)
+
+My parents chose a religion, a nation, a way living for me and my siblings
+
+Whether those choices led to an open or closed zoo, or no zoo is up to me.
+
+I choose to continue in the spirit of newly arriving immigrant and a convert.
+
+Remembering sacrifices and martyrs that enabled freedom of religion and established a unique form of government
+
+Remembering the sacrifice of my parents.
+
+So that I can say with conviction that I did not bury the tradition (talents) you left us.
+
+Thank you Mom and Dad
+
+------------------------------------------------------------------------
+
+## Two Forms of a Government: Democracy and Authoritarianism.
+
+According to a GPT[^2], the former state is characterized by,
+
+[^2]: generative pre-trained transformer
+
+> These countries often have constitutions that protect civil liberties and emphasize separation of powers
+
+While the latter regime,
+
+> ...often prioritize state stability, national unity, or economic goals over individual freedoms.
+
+ChatGPT, after comparing differences, ends with this summary,
+
+> Both approaches have their own internal variations and can incorporate aspects of the other. For example, some democracies exhibit authoritarian tendencies under certain conditions, while some authoritarian regimes adopt limited democratic practices, like elections, though often without genuine competition.
+
+In modern political science, there are two main approaches to government systems: **democracy** and **authoritarianism**. These approaches represent opposite ends of the spectrum regarding how power is distributed, individual freedoms, and government accountability.
+
+### 1. **Democracy**
+
+-   **Core Characteristics**: Democracies emphasize the role of citizens in decision-making, typically through free and fair elections. These systems uphold individual rights, including freedom of speech, assembly, and the press. Governments are accountable to the public and operate with checks and balances across branches.
+-   **Examples**: Countries like the United States, many Western European nations, Japan, and South Korea practice democracy. These countries often have constitutions that protect civil liberties and emphasize separation of powers.
+-   **Variants**: Democracies can vary widely, including representative democracies (where citizens elect officials) and direct democracies (where citizens vote on laws directly). Parliamentary systems and presidential systems also represent different democratic frameworks.
+
+### 2. **Authoritarianism**
+
+-   **Core Characteristics**: In authoritarian systems, power is concentrated in the hands of a single leader, a ruling party, or a small elite group. Political opposition is typically restricted, and citizens have limited influence over governmental decisions. Freedoms such as speech, assembly, and the press are often controlled or suppressed.
+-   **Examples**: Nations like China, Russia, North Korea, and Saudi Arabia display varying forms of authoritarianism. These regimes often prioritize state stability, national unity, or economic goals over individual freedoms.
+-   **Variants**: Authoritarian regimes also vary, including autocracies (single ruler) and oligarchies (small ruling groups). Some are military regimes, while others are civilian-led with tight political controls.
+
+Both approaches have their own internal variations and can incorporate aspects of the other. For example, some democracies exhibit authoritarian tendencies under certain conditions, while some authoritarian regimes adopt limited democratic practices, like elections, though often without genuine competition.

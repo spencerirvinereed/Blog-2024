@@ -9,7 +9,7 @@ categories: [language]
 Here is a tabulated list of the Japanese Language Proficiency Test (JLPT) levels:
 
 | **Level** | **Proficiency**    | **Description**                                                                                                                             | **Vocabulary**  | **Kanji**      | **Listening**                                    |
-|--------|--------|--------------------------------|--------|--------|--------|
+|-----------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--------------------------------------------------|
 | **N5**    | Beginner           | Basic understanding of Japanese, focuses on simple phrases, sentences, and kanji commonly used in daily conversations.                      | \~800 words     | \~100 kanji    | Simple conversations in daily life.              |
 | **N4**    | Upper Beginner     | Basic grasp of grammar, vocabulary, and kanji used in everyday life.                                                                        | \~1,500 words   | \~300 kanji    | Understands daily conversations.                 |
 | **N3**    | Intermediate       | Can understand everyday Japanese at a moderate level and some more complex grammar and vocabulary.                                          | \~3,000 words   | \~650 kanji    | Can follow daily conversations at natural speed. |
