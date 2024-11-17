@@ -13,15 +13,15 @@ Specifically, it is hard to get lost, even without the aid of GPS[^1] enabled na
 
 Close to home, the sun comes up over the mountains and sets over the lake. One can have a personal `sun-dial` and surmise the hour of the day by checking the location of the sun against a mountain, a building or a group of trees.
 
-This way of navigation or time reckoning is not at all transferable to a different location.
+This way of navigation or time reckoning is not transferable to a different location.
 
-Particularly if the new location is without prominent hills, mountains or lakes. Even with a satellite enhanced.
+Particularly if the new location is without prominent hills, mountains or lakes. Even with a satellite enhancement.
 
 ![](images/20241110_085837-EDIT.jpg)
 
-Recall, Grandma K. who in her later years didn't leave her home in the busy Seoul area. She feared that she would not find her way back. For her, all of the streets and buildings looked same.
+Recall, Grandma K. who in her later years didn't leave her home in the busy Seoul^[은평구, 응암동] area. She feared that she would not find her way back. For her, all of the streets and buildings looked same.
 
-However, when she visited an apartment with a small hill nearby, she had no trouble navigating her way. For us all hills and trees looked same, but not for her. They provided a unique and a familiar way for her to navigate back and forth to her destinations.
+However, when she visited an apartment with a small hill nearby, she had no trouble navigating her way^[대구수성구범어동]. For us, hills and trees looked similar, but not for her. They provided a unique and a familiar way for her to navigate back and forth to her destinations.
 
 ## Addresses in Asia
 
@@ -40,11 +40,11 @@ On prior business visits to Japan, I would have been lost and useless in Japan w
 Because,
 
 -   Is it possible to get lost in Japan? YES
--   Can you get lost in Japan as a monitored visitor? NO, the receiving party will not let it happen.
+-   Can you get lost in Japan as a monitored, escorted visitor? NO, the receiving party will not let that happen.
 
-Those were the days without cell phones or internet on-demand era.
+Those were the days without cell phones or internet on-demand.
 
-Luckily, people either flew to or met us at the airport to guide us to our hotels or place of business.
+Luckily, people either flew to the airport of our arrival or met us at the airport.  To guide us to our hotels or place of business.
 
 One fellow employee in Japan, S 先生, flew from Tokyo/Haneda to Ishikawa/Komatsu. Met us at the airport and accompanied us to Kanazawa.
 
@@ -56,11 +56,11 @@ Following morning, he would meet us for a breakfast, followed by a 2 hour train 
 
 He did this for 3 consecutive visits. Later we found out the airport was nearly 2 hours from his home in the northern, suburban Tokyo.
 
-He finally, let us navigate on our own.
+He finally, relented and let us navigate on our own.
 
 Without the help of the natural landmarks, and not familiar with man-made guiding markers, we promptly boarded the local-train heading in the opposite direction.
 
-Ever since, taking that Tokaido Main Line towards the Toyohashi (豊橋駅) rather than towards the East, in the Kakegawa (掛川駅) direction, we would chuckle but we would not make the same mistakes again.
+Ever since, taking that Tokaido Main Line (東海道本線) towards the Toyohashi (豊橋駅) rather than towards the East, in the Kakegawa (掛川駅) direction, we would chuckle but we would not make the same mistakes again.
 
 ------------------------------------------------------------------------
 
@@ -131,3 +131,53 @@ A Japanese address format **typically starts with the postal code, followed by t
 -   Japanese streets often don't have names, instead relying on block numbers and subareas. 
 
 -   The recipient's name is always written last in a Japanese address. 
+
+---
+
+People's decision-making in life is often guided by a combination of factors, shaped by personal, cultural, and situational influences. Here are some of the most common guides people rely on:
+
+---
+
+## Life's Guides
+
+### **1. Personal Values and Beliefs**
+   - **Core Values**: Many individuals make decisions based on principles like honesty, loyalty, compassion, or ambition. These values are often shaped by upbringing, education, and life experiences.
+   - **Ethics and Morality**: Decisions can also be guided by a sense of what is right or wrong, influenced by philosophical, cultural, or religious teachings.
+
+---
+
+### **2. Religion and Spirituality**
+   - **Faith-Based Guidance**: Religious doctrines or spiritual practices often provide frameworks for life choices, offering clarity on purpose, relationships, and priorities.
+   - **Examples**: Christians might rely on biblical teachings, while Buddhists may follow principles like mindfulness and compassion.
+
+---
+
+### **3. Intuition and Emotions**
+   - **Gut Feelings**: Many people trust their instincts or emotional responses to guide decisions, especially when rational analysis is unclear or incomplete.
+   - **Emotional Fulfillment**: Choices are often aligned with what brings happiness, peace, or personal satisfaction.
+
+---
+
+### **4. Social and Cultural Influences**
+   - **Family and Community**: Decisions can be influenced by advice or expectations from family members, peers, or mentors.
+   - **Cultural Norms**: Societal standards and traditions can play a significant role, particularly in collectivist cultures where group harmony is emphasized.
+
+---
+
+### **5. Rational Analysis and Logic**
+   - **Pros and Cons**: Logical evaluation of options based on benefits, risks, and outcomes is a common approach for major decisions.
+   - **Data-Driven Choices**: In areas like finance or career, individuals often rely on research and evidence to guide their paths.
+
+---
+
+### **6. Goals and Aspirations**
+   - **Short-Term vs. Long-Term Goals**: Decision-making can be influenced by how choices align with personal or professional objectives.
+   - **Self-Improvement**: Many decisions are guided by the desire for growth, success, or achieving a specific vision of life.
+
+---
+
+### **7. External Resources**
+   - **Experts and Professionals**: Consulting with therapists, financial advisors, or career counselors can provide clarity.
+   - **Books and Media**: Self-help literature, podcasts, or motivational speakers can inspire and guide life decisions.
+
+Each person blends these factors differently based on their unique circumstances, making decision-making a deeply personal process.
