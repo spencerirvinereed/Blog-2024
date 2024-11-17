@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "2004 Events & Recollections"
+  title: "Events & Recollections"
   navbar:
     right:
       - about.qmd
