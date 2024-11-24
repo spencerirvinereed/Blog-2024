@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Events &amp; Recollections - Blog2024</title>
+<title>Blog2024 – Events &amp; Recollections</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,17 +37,23 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1322888c997fad56b0b4d776d35cf542.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -91,8 +98,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -100,38 +134,38 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Events &amp; Recollections</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
+          </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -144,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -157,7 +191,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(15)</span></div><div class="category" data-category="DIY">DIY <span class="quarto-category-count">(1)</span></div><div class="category" data-category="communicate">communicate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="devotional">devotional <span class="quarto-category-count">(1)</span></div><div class="category" data-category="good fight">good fight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="immortality">immortality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="needs">needs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="recollection">recollection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="recollections">recollections <span class="quarto-category-count">(1)</span></div><div class="category" data-category="seasons">seasons <span class="quarto-category-count">(1)</span></div><div class="category" data-category="thoughts">thoughts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="travels">travels <span class="quarto-category-count">(2)</span></div><div class="category" data-category="가족">가족 <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="RElZ">DIY <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaWNhdGU=">communicate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGV2b3Rpb25hbA==">devotional <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZnJ1aXRzJTIwb2YlMjBsYWJvcg==">fruits of labor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z29vZCUyMGZpZ2h0">good fight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW1tb3J0YWxpdHk=">immortality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50cm8=">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmVlZHM=">needs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVjb2xsZWN0aW9u">recollection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVjb2xsZWN0aW9ucw==">recollections <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2Vhc29ucw==">seasons <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGhvdWdodHM=">thoughts <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dHJhdmVscw==">travels <span class="quarto-category-count">(2)</span></div><div class="category" data-category="JUVBJUIwJTgwJUVDJUExJUIx">가족 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -168,54 +202,121 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1731982662202" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1731982662202" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/20241026 Reel to Reel/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a></p><a href="./posts/20241026 Reel to Reel/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241026 Reel to Reel/index.html">
 <h3 class="no-anchor listing-title">
+<a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-
+<a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241026 Reel to Reel/index.html"> </a>
+<p><a href="./posts/20241026 Reel to Reel/index.html" class="no-external"></a></p><a href="./posts/20241026 Reel to Reel/index.html" class="no-external">
+</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="good fight" data-listing-date-sort="1732086000000" data-listing-file-modified-sort="1732164875113" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="1" data-categories="dGhvdWdodHM=" data-listing-date-sort="1732431600000" data-listing-file-modified-sort="1732484975953" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
 <div class="thumbnail">
-<p><a href="./posts/20241120 Fight Good Fight/index.html"> <p class="card-img-top"><img src="posts/20241120 Fight Good Fight/images/20241120_123032~2.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20241124 Snowy Memories/index.html" class="no-external"></a></p><a href="./posts/20241124 Snowy Memories/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241124 Snowy Memories/images/20241123_122515~2.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241124 Snowy Memories/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241120 Fight Good Fight/index.html">
 <h3 class="no-anchor listing-title">
-Fight the Good Fight
+<a href="./posts/20241124 Snowy Memories/index.html" class="no-external">Snowy Thoughts</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241124 Snowy Memories/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('dGhvdWdodHM='); return false;">
+thoughts
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/20241124 Snowy Memories/index.html" class="no-external">First significant valley snow of the season brings back memories and a realization.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/20241124 Snowy Memories/index.html" class="no-external">
+<div class="listing-date">
+Nov 24, 2024
+</div>
+<div class="listing-author">
+DK
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="ZnJ1aXRzJTIwb2YlMjBsYWJvcg==" data-listing-date-sort="1732258800000" data-listing-file-modified-sort="1732396494612" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="479">
+<div class="thumbnail">
+<p><a href="./posts/20241122 50 Years USA/index.html" class="no-external"></a></p><a href="./posts/20241122 50 Years USA/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20241122 50 Years USA/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/20241122 50 Years USA/index.html" class="no-external">Fifty Years in US</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/20241122 50 Years USA/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('good fight'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ZnJ1aXRzJTIwb2YlMjBsYWJvcg=='); return false;">
+fruits of labor
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/20241122 50 Years USA/index.html" class="no-external">Growing up I might have spoken Portuguese, Japanese, or Australian or Canadian version of English.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/20241122 50 Years USA/index.html" class="no-external">
+<div class="listing-date">
+Nov 22, 2024
+</div>
+<div class="listing-author">
+DK
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Z29vZCUyMGZpZ2h0" data-listing-date-sort="1732086000000" data-listing-file-modified-sort="1732164875113" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="345">
+<div class="thumbnail">
+<p><a href="./posts/20241120 Fight Good Fight/index.html" class="no-external"></a></p><a href="./posts/20241120 Fight Good Fight/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241120 Fight Good Fight/images/20241120_123032~2.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241120 Fight Good Fight/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/20241120 Fight Good Fight/index.html" class="no-external">Fight the Good Fight</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/20241120 Fight Good Fight/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Z29vZCUyMGZpZ2h0'); return false;">
 good fight
 </div>
 </div>
-<a href="./posts/20241120 Fight Good Fight/index.html">
 <div class="listing-description">
-Asked my chief adviser,
+<a href="./posts/20241120 Fight Good Fight/index.html" class="no-external">Asked my chief adviser,</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241120 Fight Good Fight/index.html">
+<a href="./posts/20241120 Fight Good Fight/index.html" class="no-external">
 <div class="listing-date">
 Nov 20, 2024
 </div>
@@ -225,32 +326,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="thoughts" data-listing-date-sort="1731826800000" data-listing-file-modified-sort="1732068795202" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="4" data-categories="dGhvdWdodHM=" data-listing-date-sort="1731826800000" data-listing-file-modified-sort="1732397256336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1275">
 <div class="thumbnail">
-<p><a href="./posts/20241117 Guides and Guidepost/index.html"> <p class="card-img-top"><img src="posts/20241117 Guides and Guidepost/images/20241110_085837-EDIT.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external"></a></p><a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241117 Guides and Guidepost/images/20241110_085837-EDIT.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241117 Guides and Guidepost/index.html">
 <h3 class="no-anchor listing-title">
-Directions and Guides
+<a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external">Directions and Guides</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('thoughts'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('dGhvdWdodHM='); return false;">
 thoughts
 </div>
 </div>
-<a href="./posts/20241117 Guides and Guidepost/index.html">
 <div class="listing-description">
-One of the advantages of living in a sparsely populated inter-mountain region is, navigation.
+<a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external">One of the advantages of living in a sparsely populated inter-mountain region is, navigation.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241117 Guides and Guidepost/index.html">
+<a href="./posts/20241117 Guides and Guidepost/index.html" class="no-external">
 <div class="listing-date">
 Nov 17, 2024
 </div>
@@ -260,32 +359,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="travels" data-listing-date-sort="1730613600000" data-listing-file-modified-sort="1730670017107" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="5" data-categories="dHJhdmVscw==" data-listing-date-sort="1730613600000" data-listing-file-modified-sort="1730670017107" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="976">
 <div class="thumbnail">
-<p><a href="./posts/20241103 Travel Thoughts/index.html"> <p class="card-img-top"><img src="posts/20241103 Travel Thoughts/images/20241030_091131.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20241103 Travel Thoughts/index.html" class="no-external"></a></p><a href="./posts/20241103 Travel Thoughts/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241103 Travel Thoughts/images/20241030_091131.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241103 Travel Thoughts/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241103 Travel Thoughts/index.html">
 <h3 class="no-anchor listing-title">
-Travel Thoughts
+<a href="./posts/20241103 Travel Thoughts/index.html" class="no-external">Travel Thoughts</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241103 Travel Thoughts/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('travels'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('dHJhdmVscw=='); return false;">
 travels
 </div>
 </div>
-<a href="./posts/20241103 Travel Thoughts/index.html">
 <div class="listing-description">
-A Sunday school teacher quoted a leader who compared the Book of Mormon to visiting a well-established, well-known places.
+<a href="./posts/20241103 Travel Thoughts/index.html" class="no-external">A Sunday school teacher quoted a leader who compared the Book of Mormon to visiting a well-established, well-known places.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241103 Travel Thoughts/index.html">
+<a href="./posts/20241103 Travel Thoughts/index.html" class="no-external">
 <div class="listing-date">
 Nov 3, 2024
 </div>
@@ -295,32 +392,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="recollections" data-listing-date-sort="1730527200000" data-listing-file-modified-sort="1730604488209" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="6" data-categories="cmVjb2xsZWN0aW9ucw==" data-listing-date-sort="1730527200000" data-listing-file-modified-sort="1730604488209" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
 <div class="thumbnail">
-<p><a href="./posts/20241102 UV Refugee Concert/index.html"> <p class="card-img-top"><img src="posts/20241102 UV Refugee Concert/images/Epson_11022024192032(4)-COLLAGE.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external"></a></p><a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241102 UV Refugee Concert/images/Epson_11022024192032(4)-COLLAGE.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241102 UV Refugee Concert/index.html">
 <h3 class="no-anchor listing-title">
-UV Refugee Concert
+<a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external">UV Refugee Concert</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('recollections'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('cmVjb2xsZWN0aW9ucw=='); return false;">
 recollections
 </div>
 </div>
-<a href="./posts/20241102 UV Refugee Concert/index.html">
 <div class="listing-description">
-Attended a concert given by students and teachers.
+<a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external">Attended a concert given by students and teachers.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241102 UV Refugee Concert/index.html">
+<a href="./posts/20241102 UV Refugee Concert/index.html" class="no-external">
 <div class="listing-date">
 Nov 2, 2024
 </div>
@@ -330,32 +425,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="recollection" data-listing-date-sort="1729836000000" data-listing-file-modified-sort="1731551021237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="7" data-categories="cmVjb2xsZWN0aW9u" data-listing-date-sort="1729836000000" data-listing-file-modified-sort="1731551021237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1091">
 <div class="thumbnail">
-<p><a href="./posts/20241025 Robo Taxi/index.html"> <p class="card-img-top"><img src="posts/20241025 Robo Taxi/images/514691694.610559.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20241025 Robo Taxi/index.html" class="no-external"></a></p><a href="./posts/20241025 Robo Taxi/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20241025 Robo Taxi/images/514691694.610559.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20241025 Robo Taxi/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241025 Robo Taxi/index.html">
 <h3 class="no-anchor listing-title">
-Open Air Zoo
+<a href="./posts/20241025 Robo Taxi/index.html" class="no-external">Open Air Zoo</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241025 Robo Taxi/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('recollection'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('cmVjb2xsZWN0aW9u'); return false;">
 recollection
 </div>
 </div>
-<a href="./posts/20241025 Robo Taxi/index.html">
 <div class="listing-description">
-An option on the Robo Taxi that I would like to see.
+<a href="./posts/20241025 Robo Taxi/index.html" class="no-external">An option on the Robo Taxi that I would like to see.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241025 Robo Taxi/index.html">
+<a href="./posts/20241025 Robo Taxi/index.html" class="no-external">
 <div class="listing-date">
 Oct 25, 2024
 </div>
@@ -365,32 +458,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="가족" data-listing-date-sort="1728540000000" data-listing-file-modified-sort="1729129732000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9">
+<div class="quarto-post image-right" data-index="8" data-categories="JUVBJUIwJTgwJUVDJUExJUIx" data-listing-date-sort="1728540000000" data-listing-file-modified-sort="1729129732000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1629">
 <div class="thumbnail">
-<p><a href="./posts/20241010 십정동 이야기/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20241010 십정동 이야기/index.html" class="no-external"></a></p><a href="./posts/20241010 십정동 이야기/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20241010 십정동 이야기/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20241010 십정동 이야기/index.html">
 <h3 class="no-anchor listing-title">
-십정동 이야기
+<a href="./posts/20241010 십정동 이야기/index.html" class="no-external">십정동 이야기</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20241010 십정동 이야기/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('가족'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('JUVBJUIwJTgwJUVDJUExJUIx'); return false;">
 가족
 </div>
 </div>
-<a href="./posts/20241010 십정동 이야기/index.html">
 <div class="listing-description">
-Before turning 6, I lived in 33 십정동 부평.
+<a href="./posts/20241010 십정동 이야기/index.html" class="no-external">Before turning 6, I lived in 33 십정동 부평.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20241010 십정동 이야기/index.html">
+<a href="./posts/20241010 십정동 이야기/index.html" class="no-external">
 <div class="listing-date">
 Oct 10, 2024
 </div>
@@ -400,32 +491,30 @@ Oct 10, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="DIY" data-listing-date-sort="1726898400000" data-listing-file-modified-sort="1727042077656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="9" data-categories="RElZ" data-listing-date-sort="1726898400000" data-listing-file-modified-sort="1727042077656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
 <div class="thumbnail">
-<p><a href="./posts/20240921 Video and Photo DIY/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external"></a></p><a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240921 Video and Photo DIY/index.html">
 <h3 class="no-anchor listing-title">
-Combine Photo Music
+<a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external">Combine Photo Music</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('DIY'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RElZ'); return false;">
 DIY
 </div>
 </div>
-<a href="./posts/20240921 Video and Photo DIY/index.html">
 <div class="listing-description">
-Footage captured with cellphones, DSLRs and solid state portable recorders
+<a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external">Footage captured with cellphones, DSLRs and solid state portable recorders</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240921 Video and Photo DIY/index.html">
+<a href="./posts/20240921 Video and Photo DIY/index.html" class="no-external">
 <div class="listing-date">
 Sep 21, 2024
 </div>
@@ -435,32 +524,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="seasons" data-listing-date-sort="1726380000000" data-listing-file-modified-sort="1726406843063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9">
+<div class="quarto-post image-right" data-index="10" data-categories="c2Vhc29ucw==" data-listing-date-sort="1726380000000" data-listing-file-modified-sort="1726406843063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1731">
 <div class="thumbnail">
-<p><a href="./posts/20240915 Wake Up Suddenly/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external"></a></p><a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240915 Wake Up Suddenly/index.html">
 <h3 class="no-anchor listing-title">
-Wake Up, Suddenly
+<a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external">Wake Up, Suddenly</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('seasons'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('c2Vhc29ucw=='); return false;">
 seasons
 </div>
 </div>
-<a href="./posts/20240915 Wake Up Suddenly/index.html">
 <div class="listing-description">
-Perhaps Billy Ocean said it best during the 80s.
+<a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external">Perhaps Billy Ocean said it best during the 80s.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240915 Wake Up Suddenly/index.html">
+<a href="./posts/20240915 Wake Up Suddenly/index.html" class="no-external">
 <div class="listing-date">
 Sep 15, 2024
 </div>
@@ -470,33 +557,31 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="communicate" data-listing-date-sort="1726293600000" data-listing-file-modified-sort="1727355340066" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="11" data-categories="Y29tbXVuaWNhdGU=" data-listing-date-sort="1726293600000" data-listing-file-modified-sort="1727355340066" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
 <div class="thumbnail">
-<p><a href="./posts/20240914 Original Intent/index.html"> <p class="card-img-top"><img src="posts/20240914 Original Intent/20231015_122522-01.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20240914 Original Intent/index.html" class="no-external"></a></p><a href="./posts/20240914 Original Intent/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20240914 Original Intent/20231015_122522-01.jpeg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20240914 Original Intent/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240914 Original Intent/index.html">
 <h3 class="no-anchor listing-title">
-Original Intent
+<a href="./posts/20240914 Original Intent/index.html" class="no-external">Original Intent</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240914 Original Intent/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('communicate'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaWNhdGU='); return false;">
 communicate
 </div>
 </div>
-<a href="./posts/20240914 Original Intent/index.html">
 <div class="listing-description">
-Sister K and I have a daily stand-up, or more accurately a daily-walk meeting.<br>
-We spend 30 minutes to an hour of uninterrupted time in the canyon.
+<a href="./posts/20240914 Original Intent/index.html" class="no-external">Sister K and I have a daily stand-up, or more accurately a daily-walk meeting.<br>
+We spend 30 minutes to an hour of uninterrupted time in the canyon.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240914 Original Intent/index.html">
+<a href="./posts/20240914 Original Intent/index.html" class="no-external">
 <div class="listing-date">
 Sep 14, 2024
 </div>
@@ -506,32 +591,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="travels" data-listing-date-sort="1726120800000" data-listing-file-modified-sort="1726151927879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="12" data-categories="dHJhdmVscw==" data-listing-date-sort="1726120800000" data-listing-file-modified-sort="1726151927879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="744">
 <div class="thumbnail">
-<p><a href="./posts/20240912 Flying Mattress/index.html"> <p class="card-img-top"><img src="posts/20240912 Flying Mattress/20240719_202255.jpg"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/20240912 Flying Mattress/index.html" class="no-external"></a></p><a href="./posts/20240912 Flying Mattress/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/20240912 Flying Mattress/20240719_202255.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/20240912 Flying Mattress/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240912 Flying Mattress/index.html">
 <h3 class="no-anchor listing-title">
-Flying Mattress
+<a href="./posts/20240912 Flying Mattress/index.html" class="no-external">Flying Mattress</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240912 Flying Mattress/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('travels'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('dHJhdmVscw=='); return false;">
 travels
 </div>
 </div>
-<a href="./posts/20240912 Flying Mattress/index.html">
 <div class="listing-description">
-One way to gauge your influence and find your status in the family is to invite more people to your home than you have beds and bedrooms.
+<a href="./posts/20240912 Flying Mattress/index.html" class="no-external">One way to gauge your influence and find your status in the family is to invite more people to your home than you have beds and bedrooms.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240912 Flying Mattress/index.html">
+<a href="./posts/20240912 Flying Mattress/index.html" class="no-external">
 <div class="listing-date">
 Sep 12, 2024
 </div>
@@ -541,33 +624,31 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="devotional" data-listing-date-sort="1725775200000" data-listing-file-modified-sort="1726024054143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="206">
+<div class="quarto-post image-right" data-index="13" data-categories="ZGV2b3Rpb25hbA==" data-listing-date-sort="1725775200000" data-listing-file-modified-sort="1726024054143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="206" data-listing-word-count-sort="41083">
 <div class="thumbnail">
-<p><a href="./posts/20240908 Korea Devotional Cook/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external"></a></p><a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240908 Korea Devotional Cook/index.html">
 <h3 class="no-anchor listing-title">
-Korea Nationwide Devotional
+<a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external">Korea Nationwide Devotional</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('devotional'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ZGV2b3Rpb25hbA=='); return false;">
 devotional
 </div>
 </div>
-<a href="./posts/20240908 Korea Devotional Cook/index.html">
 <div class="listing-description">
-Presiding : Elder Quentin L Cook<br>
-Conducting : Elder Christopher H Kim
+<a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external">Presiding : Elder Quentin L Cook<br>
+Conducting : Elder Christopher H Kim</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240908 Korea Devotional Cook/index.html">
+<a href="./posts/20240908 Korea Devotional Cook/index.html" class="no-external">
 <div class="listing-date">
 Sep 8, 2024
 </div>
@@ -577,32 +658,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="immortality" data-listing-date-sort="1725775200000" data-listing-file-modified-sort="1727593907368" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="14" data-categories="aW1tb3J0YWxpdHk=" data-listing-date-sort="1725775200000" data-listing-file-modified-sort="1727593907368" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="772">
 <div class="thumbnail">
-<p><a href="./posts/20240908 EQ Discussions/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240908 EQ Discussions/index.html" class="no-external"></a></p><a href="./posts/20240908 EQ Discussions/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240908 EQ Discussions/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240908 EQ Discussions/index.html">
 <h3 class="no-anchor listing-title">
-Utnapishtim the Immortal
+<a href="./posts/20240908 EQ Discussions/index.html" class="no-external">Utnapishtim the Immortal</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240908 EQ Discussions/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('immortality'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('aW1tb3J0YWxpdHk='); return false;">
 immortality
 </div>
 </div>
-<a href="./posts/20240908 EQ Discussions/index.html">
 <div class="listing-description">
-A discussion on Gift of Priesthood Keys
+<a href="./posts/20240908 EQ Discussions/index.html" class="no-external">A discussion on Gift of Priesthood Keys</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240908 EQ Discussions/index.html">
+<a href="./posts/20240908 EQ Discussions/index.html" class="no-external">
 <div class="listing-date">
 Sep 8, 2024
 </div>
@@ -612,32 +691,30 @@ DK
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="needs" data-listing-date-sort="1725688800000" data-listing-file-modified-sort="1727318603171" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="15" data-categories="bmVlZHM=" data-listing-date-sort="1725688800000" data-listing-file-modified-sort="1727318603171" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
 <div class="thumbnail">
-<p><a href="./posts/20240907 Needed v Needy/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240907 Needed v Needy/index.html" class="no-external"></a></p><a href="./posts/20240907 Needed v Needy/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240907 Needed v Needy/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240907 Needed v Needy/index.html">
 <h3 class="no-anchor listing-title">
-Needy vs Needed
+<a href="./posts/20240907 Needed v Needy/index.html" class="no-external">Needy vs Needed</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240907 Needed v Needy/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('needs'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('bmVlZHM='); return false;">
 needs
 </div>
 </div>
-<a href="./posts/20240907 Needed v Needy/index.html">
 <div class="listing-description">
-video
+<a href="./posts/20240907 Needed v Needy/index.html" class="no-external">video</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240907 Needed v Needy/index.html">
+<a href="./posts/20240907 Needed v Needy/index.html" class="no-external">
 <div class="listing-date">
 Sep 7, 2024
 </div>
@@ -647,32 +724,30 @@ Manis Friedman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="intro" data-listing-date-sort="1725602400000" data-listing-file-modified-sort="1726193866085" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="16" data-categories="aW50cm8=" data-listing-date-sort="1725602400000" data-listing-file-modified-sort="1726193866085" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="thumbnail">
-<p><a href="./posts/20240906 Welcome/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/20240906 Welcome/index.html" class="no-external"></a></p><a href="./posts/20240906 Welcome/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/20240906 Welcome/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/20240906 Welcome/index.html">
 <h3 class="no-anchor listing-title">
-Welcome To My Blog
+<a href="./posts/20240906 Welcome/index.html" class="no-external">Welcome To My Blog</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/20240906 Welcome/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('aW50cm8='); return false;">
 intro
 </div>
 </div>
-<a href="./posts/20240906 Welcome/index.html">
 <div class="listing-description">
-Happenings and Thoughts in the latter half of 2024.
+<a href="./posts/20240906 Welcome/index.html" class="no-external">Happenings and Thoughts in the latter half of 2024.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/20240906 Welcome/index.html">
+<a href="./posts/20240906 Welcome/index.html" class="no-external">
 <div class="listing-date">
 Sep 6, 2024
 </div>
@@ -722,18 +797,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -765,11 +829,48 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -779,8 +880,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -792,7 +902,129 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -836,6 +1068,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -861,6 +1094,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -921,6 +1180,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

@@ -1,0 +1,14 @@
+{
+  "hash": "77d5befb26834b94a830d112bfc60871",
+  "result": {
+    "markdown": "---\ntitle: \"선진국 先進國\"\nauthor: \"DK\"\ndate: \"2024-10-01\"\ndraft: yes\ncategories: [progress]\n---\n\n\n## The Website\n\n[Japan Rail Pass](https://japanrailpass.net/en/purchase/)\n\nA search of key word `JR Pass Purchase` brings up a dozen or so similar websites.\n\nWhile there may not be any differences, one thing to consider and confirm is,\n\n> Can I reserve tickets in advance?\n\nSimilarly,\n\n> Can I print those tickets from the vending machine, bypassing the often crowded, JR Ticket Office.\n\nThe JR Pass is no longer a phenomenal bargain it used to be.\n\nHowever, if you plan to travel to multiple cities farther than 200 km, it may be still worthwhile to purchase the Pass.\n\nFor instance, Kyoto, one of the more popular destination in Japan, is 456 km from Tokyo Station. To drive that distance takes nearly six hours.\n\nThe Hikari Shinkansen option costs 13,320 but it will take you there in 2 hours and 40 minutes using the Hikari, the limited express option.\n\nSee Table and Chart Below\n\nHere’s a tabulated list showing the **travel time** and **cost** from Tokyo to Kyoto using the three different Shinkansen types (Nozomi, Hikari, and Kodama) and their seat classes:\n\n| **Shinkansen Type** | **Seat Type**           | **Travel Time**    | **Cost (JPY)** | **Cost (USD)** (approx.) |\n|---------------|---------------|---------------|---------------|---------------|\n| **Nozomi**          | Ordinary (Reserved)     | 2 hours 15 minutes | ¥13,870        | \\$93                     |\n|                     | Green Car (First Class) | 2 hours 15 minutes | ¥19,390        | \\$130                    |\n|                     | Ordinary (Unreserved)   | 2 hours 15 minutes | ¥13,620        | \\$91                     |\n| **Hikari**          | Ordinary (Reserved)     | 2 hours 40 minutes | ¥13,320        | \\$90                     |\n|                     | Green Car (First Class) | 2 hours 40 minutes | ¥18,890        | \\$127                    |\n|                     | Ordinary (Unreserved)   | 2 hours 40 minutes | ¥13,080        | \\$88                     |\n| **Kodama**          | Ordinary (Reserved)     | 4 hours            | ¥13,320        | \\$90                     |\n|                     | Green Car (First Class) | 4 hours            | ¥18,890        | \\$127                    |\n|                     | Ordinary (Unreserved)   | 4 hours            | ¥13,080        | \\$88                     |\n\n### Notes:\n\n-   Prices are one-way.\n-   **Nozomi** is the fastest but not covered by the Japan Rail Pass.\n-   **Hikari** and **Kodama** are slower but covered by the JR Pass.\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
