@@ -2,6 +2,7 @@
 title: "Fifty Years in US"
 author: "DK"
 date: "2024-11-22"
+draft: yes
 categories: [fruits of labor]
 ---
 
@@ -29,7 +30,7 @@ The missionaries that taught the family were mostly from Idaho and Utah.
 
 However, dad's contract was with a company in Greenbelt, MD, AH Smith and Company.
 
----
+------------------------------------------------------------------------
 
 We went through a typical first generation difficulties.
 
@@ -39,7 +40,7 @@ Though, there was pull to stay close to family.
 
 Went on a mission to the west coast, followed by a move to inter-mountain west.
 
----
+------------------------------------------------------------------------
 
 Recently, it occurred to me that Sister K and I had been talking in Korean for duration of our marriage.
 
