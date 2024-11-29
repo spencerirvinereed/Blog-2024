@@ -1,12 +1,1 @@
----
-title: "Seek Alpha"
-author: "DK"
-date: "2024-09-29"
-draft: yes
-categories: [technology]
----
-
-https://seekingalpha.com/article/4703269-solid-power-bmws-demo-car-could-charge-a-stock-rebound
-
-https://www.forbes.com/sites/catherinewang/2022/09/08/newcomer-ev-battery-manufacturer-sk-on-plans-to-lead-global-market/
 
