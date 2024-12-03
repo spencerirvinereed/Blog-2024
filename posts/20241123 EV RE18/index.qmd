@@ -1,0 +1,37 @@
+---
+title: "Electro Voice RE18"
+author: "DK"
+date: "2024-11-23"
+draft: yes
+categories: [audio-mic]
+---
+
+met the gentleman at his Sandy home.
+
+He had 2 hard cases full of microphones and cables.
+
+2 of them were EV RE18s.
+
+One silver and one black.
+
+I have used these as voice microphones
+
+## Reviews
+
+<https://www.coutant.org/evre18/index.html>
+
+The unique isolation system utilizes butyl-rubber doughnuts and viscous damping fluid to provide a degree of shock isolation unknown in a microphone housed in such a small outer case (¾-inch diameter).
+
+<https://wirebenderaudio.blogspot.com/2013/05/review-electro-voice-re18.html>
+
+If you look at the [RE-18's spec sheet](http://www.coutant.org/evre18/re18eds.pdf), you'll find that the manufacturer provided a collection of specifications that are uncommon in today's market. My favorite nearly-non-existent specification is "off-axis reponse." This is never a pretty chart, as much as we'd like to imagine cardioid microphones are really cardioid. As ugly as it is, this chart (left) is about as good as it gets in vocal microphones.  With as little as 15dB of off-axis rejection in the upper-range and 50-150Hz and as much as 20-30dB in the upper mid-range to 10kHz, the RE-18 is a very directional microphone. There is no specification for shock-isolation, but the RE-18 is multiply rubber-mounted from case: everything from the step-up transformer to the element are shock-mounted and handling noise is all but non-existent.\
+\
+If you would like a general description of the RE-18, S.O. Coutant does a fine job on his excellent microphones website: <http://www.coutant.org/evre18/index.html>. However, the best sonic description I can provide is "clarity." Voices through the RE-18 cut through the mix without equalization or a particularly high level. Like the condenser hand-helds, the RE-18 does not provide the low-mid honk of the SM-58 and that is what many live engineers have come to describe as "presence" on their way to hearing impairment.
+
+## Current Price Range
+
+**Estimated Price Range**
+
+Based on 80 orders for **RE18 Supercardioid Dynamic Microphone 1970s Beige** in **Good to Mint condition**
+
+**\$208 - \$381**

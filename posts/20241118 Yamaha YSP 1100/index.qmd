@@ -1,0 +1,42 @@
+---
+title: "Yamaha YSP 1100"
+author: "DK"
+date: "2024-11-18"
+draft: yes
+categories: [audio-speakers]
+---
+
+One of the companies I would have wanted to work for.
+
+[ヤマハ株式会社](https://www.wikiwand.com/en/articles/Yamaha_Corporation)
+
+Headquartered in Hamamatsu, Shizuoka, Japan
+
+Musical instrument and audio equipment manufacturer.
+
+I got to visit their museums
+
+I do have several of their equipment.
+
+> Yamaha is the latest company to search for the Holy Grail of convincing virtual surround sound -- decent movie audio without a bale of speaker wire. Its YSP-1100 is essentially a box you stick under your TV with 42 speakers that ping sound in different directions
+
+Ian Morris, CNET, 13 August 2007
+
+<https://www.wikiwand.com/en/articles/Yamaha_Corporation>
+
+Unit cost \$1600 in 2007 (\$2600 today)
+
+> If this unit were designed any sturdier it would be suitable for military use.
+
+Clint DeBoer, Audioholics, 12 November 2006
+
+<https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/yamaha-ysp-1100>
+
+|             |                               |                          |
+|-------------|-------------------------------|--------------------------|
+|             | **YSP-1100 (3rd generation)** | **YSP-1 (generation 1)** |
+| MSRP:       |   \$1,699                     |  \$1,499                 |
+| Finish:     | Silver or Black               | Silver                   |
+| Auto Setup: | Yes                           |  No                      |
+| Room EQ:    | Yes                           |  No                      |
+| Weight:     | 28.7 lbs.                     |  28.6 lbs                |

@@ -2,6 +2,7 @@
 title: "Directions and Guides"
 author: "DK"
 date: "2024-11-17"
+draft: yes
 categories: [thoughts]
 ---
 
@@ -11,17 +12,25 @@ Specifically, it is hard to get lost, even without the aid of GPS[^1] enabled na
 
 [^1]: Global Positioning System
 
-Close to home, the sun comes up over the mountains and sets over the lake. One can have a personal `sun-dial` and surmise the hour of the day by checking the location of the sun against a mountain, a building or a group of trees.
+Close to home, the sun comes up over the mountains and sets over the lake.
+
+One can have a personal `sun-dial` and surmise the hour of the day by checking the location of the sun against a mountain, a building or a group of trees.
 
 This way of navigation or time reckoning is not transferable to a different location.
 
-Particularly if the new location is without prominent hills, mountains or lakes. Even with a satellite enhancement.
+Particularly if the new location is without prominent hills, mountains or lakes.
+
+Even with a satellite enhancement.
 
 ![](images/20241110_085837-EDIT.jpg)
 
-Recall, Grandma K. who in her later years didn't leave her home in the busy Seoul[^2] area. She feared that she would not find her way back. For her, all of the streets and buildings looked same.
+Recall, Grandma K. who in her later years didn't leave her home in the busy Seoul[^2] area.
 
 [^2]: 은평구, 응암동
+
+She feared that she would not find her way back.
+
+For her, all of the streets and buildings looked same.
 
 However, when she visited an apartment with a small hill nearby, she had no trouble navigating her way[^3]. For us, hills and trees looked similar, but not for her. They provided a unique and a familiar way for her to navigate back and forth to her destinations.
 
@@ -35,7 +44,7 @@ In the East, the addresses go from largest to smallest. For example, in Japan,
 
 However,
 
-> ...when written in English, the order is reversed, putting the recipient's name first and the postal code last\^\[per Google Generative AI\]
+> ...when written in English, the order is reversed, putting the recipient's name first and the postal code last^[per Google Generative AI]
 
 ------------------------------------------------------------------------
 
@@ -48,7 +57,9 @@ Because,
 
 Those were the days without cell phones or internet on-demand.
 
-Luckily, people either flew to the airport of our arrival or met us at the airport. To guide us to our hotels or place of business.
+Luckily, people either flew to the airport of our arrival or met us at the airport.
+
+To guide us to our hotels or place of business.
 
 One fellow employee in Japan, S 先生, flew from Tokyo/Haneda to Ishikawa/Komatsu. Met us at the airport and accompanied us to Kanazawa.
 
@@ -100,7 +111,7 @@ Grateful to have guides and persons that are posted at locations and in crucial 
 
 Like at a large, unfamiliar train stations or a new attraction that caters to a night time visit.
 
-My hope is that I will venture far enough to see new things but not too far that I cannot find my way home, as my Granma K said not too long ago.
+My hope is that I will venture far enough to see new things but not too far that I cannot find my way home, as my Grandma K said not too long ago.
 
 ![](images/20230420_195542-01_Original.jpeg)
 
