@@ -1,39 +1,31 @@
 ---
-title: "MAC Collection"
+title: "조율 調律"
 author: "DK"
-date: "2024-09-28"
+date: "2024-09-29"
 draft: yes
-categories: [technology]
+categories: [coordination]
 ---
 
-## Dual Core 2
+A big part of celebration old korea was food.
 
-iMovie and
+And it continues to be.
 
-Garageband
+The role of taste coordinators is important.
 
-Also Apogee Duet is possible.
+According to my paternal cousins, my mom was one
 
-## Mac Pro 1,1
+As well as others in her family.
 
-## Mac Pro 3,1
+They carried on that important tradition.
 
-## Mac Pro 4,1/5,1
+------------------------------------------------------------------------
 
-Why do I keep these hardware in today's world.
+Similarly we have event coordinators now days
 
-Because it does what it was designed to do.
+------------------------------------------------------------------------
 
-## PrimeFilm 3650u Installation
+What about life coordinators.
 
-<https://www.scanace.com/product/all-models-driver-download-user-guide>
+Partnership with God.
 
-Download the driver and the firmware from above site.
-
-Be sure to deactivate the `dMisc.`
-
-Set the resolution to 1800 to 2400 dpi
-
-Slide is positive
-
-Negative is positive
+Plan much as possible but allow for some surprises and unexpected outcome.
