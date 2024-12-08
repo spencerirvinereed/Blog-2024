@@ -1,42 +1,207 @@
 ---
-title: "Yamaha YSP 1100"
+title: "Directions and Guides"
 author: "DK"
-date: "2024-11-18"
+date: "2024-11-17"
 draft: yes
-categories: [audio-speakers]
+categories: [thoughts]
 ---
 
-One of the companies I would have wanted to work for.
+One of the advantages of living in a sparsely populated inter-mountain region is, navigation.
 
-[ヤマハ株式会社](https://www.wikiwand.com/en/articles/Yamaha_Corporation)
+Specifically, it is hard to get lost, even without the aid of GPS[^1] enabled navigation assistance.
 
-Headquartered in Hamamatsu, Shizuoka, Japan
+[^1]: Global Positioning System
 
-Musical instrument and audio equipment manufacturer.
+Close to home, the sun comes up over the mountains and sets over the lake.
 
-I got to visit their museums
+One can have a personal `sun-dial` and surmise the hour of the day by checking the location of the sun against a mountain, a building or a group of trees.
 
-I do have several of their equipment.
+This way of navigation or time reckoning is not transferable to a different location.
 
-> Yamaha is the latest company to search for the Holy Grail of convincing virtual surround sound -- decent movie audio without a bale of speaker wire. Its YSP-1100 is essentially a box you stick under your TV with 42 speakers that ping sound in different directions
+Particularly if the new location is without prominent hills, mountains or lakes.
 
-Ian Morris, CNET, 13 August 2007
+Even with a satellite enhancement.
 
-<https://www.wikiwand.com/en/articles/Yamaha_Corporation>
+![](images/20241110_085837-EDIT.jpg)
 
-Unit cost \$1600 in 2007 (\$2600 today)
+Recall, Grandma K. who in her later years didn't leave her home in the busy Seoul[^2] area.
 
-> If this unit were designed any sturdier it would be suitable for military use.
+[^2]: 은평구, 응암동
 
-Clint DeBoer, Audioholics, 12 November 2006
+She feared that she would not find her way back.
 
-<https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/yamaha-ysp-1100>
+For her, all of the streets and buildings looked same.
 
-|             |                               |                          |
-|-------------|-------------------------------|--------------------------|
-|             | **YSP-1100 (3rd generation)** | **YSP-1 (generation 1)** |
-| MSRP:       |   \$1,699                     |  \$1,499                 |
-| Finish:     | Silver or Black               | Silver                   |
-| Auto Setup: | Yes                           |  No                      |
-| Room EQ:    | Yes                           |  No                      |
-| Weight:     | 28.7 lbs.                     |  28.6 lbs                |
+However, when she visited an apartment with a small hill nearby, she had no trouble navigating her way[^3]. For us, hills and trees looked similar, but not for her. They provided a unique and a familiar way for her to navigate back and forth to her destinations.
+
+[^3]: 대구수성구범어동
+
+## Addresses in Asia
+
+In the East, the addresses go from largest to smallest. For example, in Japan,
+
+> ...address format typically starts with the postal code, followed by the prefecture, city/ward, subarea, block number, house number, and finally the recipient's name, with the order written from largest to smallest unit,
+
+However,
+
+> ...when written in English, the order is reversed, putting the recipient's name first and the postal code last[^4]
+
+[^4]: per Google Generative AI
+
+------------------------------------------------------------------------
+
+On prior business visits to Japan, I would have been lost and useless in Japan without a local guide.
+
+Because,
+
+-   Is it possible to get lost in Japan? YES
+-   Can you get lost in Japan as a monitored, escorted visitor? NO, the receiving party will not let that happen.
+
+Those were the days without cell phones or internet on-demand.
+
+Luckily, people either flew to the airport of our arrival or met us at the airport.
+
+To guide us to our hotels or place of business.
+
+One fellow employee in Japan, S 先生, flew from Tokyo/Haneda to Ishikawa/Komatsu. Met us at the airport and accompanied us to Kanazawa.
+
+I was duly impressed.
+
+H 先生 would met us at the Narita Airport with our train tickets and take us to the hotel.
+
+Following morning, he would meet us for a breakfast, followed by a 2 hour train ride on Hikari.
+
+He did this for 3 consecutive visits. Later we found out the airport was nearly 2 hours from his home in the northern, suburban Tokyo.
+
+He finally, relented and let us navigate on our own.
+
+Without the help of the natural landmarks, and not familiar with man-made guiding markers, we promptly boarded the local-train heading in the opposite direction.
+
+Ever since, taking that Tokaido Main Line (東海道本線) towards the Toyohashi (豊橋駅) rather than towards the East, in the Kakegawa (掛川駅) direction, we would chuckle but we would not make the same mistakes again.
+
+------------------------------------------------------------------------
+
+Now days, it is rare for one to be completely without navigational reckoning tools.
+
+We have trust in the offering and the results provide sufficient proof that the satellite images and digital rendering is both accurate and effective.
+
+![](images/20241114_172925.jpg)
+
+## Tools employed to guide us through this life
+
+According to ChatGPT,
+
+1.  Personal Values and Beliefs
+2.  Religion and Spirituality
+3.  Intuition and Emotions
+4.  Social and Cultural Influences
+5.  Rational Analysis and Logic
+6.  Goals and Aspirations
+7.  External Resources
+
+I have relied on combination of Social and Cultural Influences, specifically Family and Community and Cultural Norms, along with Religion and Spirituality, Faith-Based Guidance.
+
+With the departure of my parents and Sister K's parents, we feel somewhat lost when we are faced with the `on-going` as well as the `new-for-us` challenges arise.
+
+-   What is our `North Star`?
+-   What is to replace technology and artificial intelligence?
+-   Who do we turn to when our knowledge fails?
+
+------------------------------------------------------------------------
+
+Grateful to have guides and persons that are posted at locations and in crucial times.
+
+Like at a large, unfamiliar train stations or a new attraction that caters to a night time visit.
+
+My hope is that I will venture far enough to see new things but not too far that I cannot find my way home, as my Grandma K said not too long ago.
+
+![](images/20230420_195542-01_Original.jpeg)
+
+------------------------------------------------------------------------
+
+A Japanese address format **typically starts with the postal code, followed by the prefecture, city/ward, subarea, block number, house number, and finally the recipient's name, with the order written from largest to smallest unit**, meaning the prefecture comes before the city and the city before the street level details; when written in English, the order is reversed, putting the recipient's name first and the postal code last. 
+
+**Key points about a Japanese address:**
+
+-   **Postal code:** A 7-digit code, often preceded by the symbol "〒". 
+
+-   **Prefecture:** The administrative region, like "Tokyo-to" (Tokyo prefecture). 
+
+-   **City/Ward:** The city or ward within the prefecture, like "Chiyoda-ku" (Chiyoda ward). 
+
+-   **Subarea:** A smaller district within the city, often not directly translated to "street" in English. 
+
+-   **Block number:** Designated as "chōme". 
+
+-   **House number:** Designated as "ban". 
+
+**Example:**
+
+-   **Japanese:** 〒100-0004 東京都千代田区丸の内２丁目７番１号
+
+-   **English:** 7-1, Marunouchi 2-Chome, Chiyoda-ku, Tokyo 100-0004 
+
+**Important points to remember:**
+
+-   When writing a Japanese address in English, the order is reversed compared to the Japanese writing style. 
+
+-   Japanese streets often don't have names, instead relying on block numbers and subareas. 
+
+-   The recipient's name is always written last in a Japanese address. 
+
+------------------------------------------------------------------------
+
+People's decision-making in life is often guided by a combination of factors, shaped by personal, cultural, and situational influences. Here are some of the most common guides people rely on:
+
+------------------------------------------------------------------------
+
+## Life's Guides
+
+### **1. Personal Values and Beliefs**
+
+-   **Core Values**: Many individuals make decisions based on principles like honesty, loyalty, compassion, or ambition. These values are often shaped by upbringing, education, and life experiences.
+-   **Ethics and Morality**: Decisions can also be guided by a sense of what is right or wrong, influenced by philosophical, cultural, or religious teachings.
+
+------------------------------------------------------------------------
+
+### **2. Religion and Spirituality**
+
+-   **Faith-Based Guidance**: Religious doctrines or spiritual practices often provide frameworks for life choices, offering clarity on purpose, relationships, and priorities.
+-   **Examples**: Christians might rely on biblical teachings, while Buddhists may follow principles like mindfulness and compassion.
+
+------------------------------------------------------------------------
+
+### **3. Intuition and Emotions**
+
+-   **Gut Feelings**: Many people trust their instincts or emotional responses to guide decisions, especially when rational analysis is unclear or incomplete.
+-   **Emotional Fulfillment**: Choices are often aligned with what brings happiness, peace, or personal satisfaction.
+
+------------------------------------------------------------------------
+
+### **4. Social and Cultural Influences**
+
+-   **Family and Community**: Decisions can be influenced by advice or expectations from family members, peers, or mentors.
+-   **Cultural Norms**: Societal standards and traditions can play a significant role, particularly in collectivist cultures where group harmony is emphasized.
+
+------------------------------------------------------------------------
+
+### **5. Rational Analysis and Logic**
+
+-   **Pros and Cons**: Logical evaluation of options based on benefits, risks, and outcomes is a common approach for major decisions.
+-   **Data-Driven Choices**: In areas like finance or career, individuals often rely on research and evidence to guide their paths.
+
+------------------------------------------------------------------------
+
+### **6. Goals and Aspirations**
+
+-   **Short-Term vs. Long-Term Goals**: Decision-making can be influenced by how choices align with personal or professional objectives.
+-   **Self-Improvement**: Many decisions are guided by the desire for growth, success, or achieving a specific vision of life.
+
+------------------------------------------------------------------------
+
+### **7. External Resources**
+
+-   **Experts and Professionals**: Consulting with therapists, financial advisors, or career counselors can provide clarity.
+-   **Books and Media**: Self-help literature, podcasts, or motivational speakers can inspire and guide life decisions.
+
+Each person blends these factors differently based on their unique circumstances, making decision-making a deeply personal process.
