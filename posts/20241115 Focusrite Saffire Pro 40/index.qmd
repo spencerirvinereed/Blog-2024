@@ -15,13 +15,3 @@ Includes software `MixControl`
 ## Downloads
 
 <https://downloads.focusrite.com/focusrite/saffire/saffire-pro-40>
-
-## 29 Nov 2024
-
-Used EV RE18 dynamic microphone into Saffire.
-
-Used Quicktime as the recorder. It saves into `m4a` file.
-
-Convert to WAV file using Audacity the file size grew by 3 times.
-
-Monitoring was done using the Yamaha YSP1100- 1100 advantage of 1100 as a monitor is that it is placed above my head and the volume is much larger so you can pick up more details of when compared to speakers it up built-in to displays so one can use monitoring speakers but that requires a amplifier and it takes up space so in this case I am using was designed for a thick home Darius they call it a projector speakers a small speakers by 1 inch or 2 inch inside I guess my 2 inches there's 40 of them taking direct sound different parts of the room but that is not a purpose the purpose of using the projector speaker is to hear the sound would normally be picked up by the speakers most cases people use a monitoring headphones but since I'm the only one in this room I am not I don't need to use a headphone OK I'm using the same set up that I used to record samples to use was called dictation so as I speak into the microphone the same wording is converted from audio signal into the text on the screen so this is something that I probably use more I don't think I need to go to do the route of using audio interface but it sounds good so hopefully this will work all right that's it for now and the evening of 29 November 2024
