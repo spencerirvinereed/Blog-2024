@@ -1,5 +1,5 @@
 ---
-title: "Electro Voice RE18"
+title: "뜨개질"
 author: "DK"
 date: "2024-11-23"
 draft: yes
@@ -37,6 +37,22 @@ She was creative but ever expanding
 An alternate meaning,
 
 > involving connections or bonds between things or people
+
+From <https://namu.wiki/w/%EB%9C%A8%EA%B0%9C%EC%A7%88>
+
+실과 바늘, 가위 등을 이용해 스웨터, 모자, 장갑, 양말, 목도리, 인형 등 니트 직물(편물, 수편물)을 결여서 만드는 일.
+
+뜨개질로 만들어진 니트는 직물에 비해 신축성 및 통기성이 좋지만, 실 한 가닥을 줄줄 엮어서 천 모양을 만드는 방식이기에 일부분 손상 시 복구가 까다롭다. 작업 중에도 한참 전에 틀린 부분이 있을 경우 수정하기가 정말로 고통스러워진다.
+
+------------------------------------------------------------------------
+
+Using thread, needles, scissors, and other tools, items such as sweaters, hats, gloves, socks, scarves, and dolls are made by creating knit fabric (knitted or hand-knitted materials).
+
+Knitted items made through this method have better elasticity and breathability compared to woven fabrics. However, since the fabric is created by looping a single thread continuously, it can be difficult to repair if a part is damaged. Additionally, if an error from much earlier in the process is discovered during work, correcting it can be quite labor-intensive and frustrating.
+
+------------------------------------------------------------------------
+
+If you'd like further assistance or a more tailored explanation, let me know!
 
 ## Generative Pre-Trained Transformer
 
