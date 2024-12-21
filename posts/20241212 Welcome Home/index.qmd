@@ -31,9 +31,32 @@ There was no need for that.
 
 We thoroughly enjoyed visiting sites associated with the birth and flourishing of Western Civilization
 
-![Zaanse Schans, October 2001](images/IMG_0030.JPG){width=75%}
+![Zaanse Schans, October 2001](images/IMG_0030.JPG){width="75%"}
 
----
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+# Install required package if not already installed
+if (!requireNamespace("leaflet", quietly = TRUE)) install.packages("leaflet")
+
+# Load the leaflet library
+library(leaflet)
+
+# Define the coordinates for Shibuya, Tokyo
+coords <- c(lat = 52.47500366703911, lng = 4.820575078680284)
+
+# Create the leaflet map
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap tiles
+  setView(lng = coords["lng"], lat = coords["lat"], zoom = 14) %>%  # Set view to Shibuya
+  addMarkers(lng = coords["lng"], lat = coords["lat"], 
+             popup = "Zaandijk, Netherlands")  # Add a marker with a popup
+
+```
+
+------------------------------------------------------------------------
 
 One thing we couldn't arrange was return to their 고향 (故鄕).
 
@@ -47,19 +70,19 @@ My mother and father knew exactly the place of their birth and childhood home. I
 
 I imagine, they could have done that even in their 80s.
 
----
+------------------------------------------------------------------------
 
 A few years after the European visit, we got to visit 백령도 (白翎島). An island, about 200 kilometers from Incheon Airport, or a 4-hour ferry ride. The island is inhabited by 5000 persons, including Mom's cousin on her mother's side.
 
-![With the cousin in front of local Presbyterian Church, June 2007](images/DSCN0271 1.JPG){width=75%}
+![With the cousin in front of local Presbyterian Church, June 2007](images/DSCN0271%201.JPG){width="75%"}
 
-When we arrived on the island. I didn't need an introduction, I was instantly accepted as a family, by virtue of being my mom's son. My 2 sons were automatically recognized as an extended family. 
+When we arrived on the island. I didn't need an introduction, I was instantly accepted as a family, by virtue of being my mom's son. My 2 sons were automatically recognized as an extended family.
 
 This was a rare and memorable welcoming for me as a son of refugees from the Northern Korea.
 
 Mom's cousin and his wife provided a feast and took us around the island. The island is roughly 50 square kilometers or 1/15 of Singapore.
 
-![At mom's cousin's Home, light on spices, closer to North Korean cuisine](images/DSC00427.JPG){width=50%}
+![At mom's cousin's Home, light on spices, closer to North Korean cuisine](images/DSC00427.JPG){width="50%"}
 
 Many of its residents are from nearby counties in North Korea. Some of these are less than 10 miles from the coast of 백령도 (白翎島).
 
@@ -67,11 +90,38 @@ They came to the island in a temporary arrangement. They were to return, once th
 
 That was nearly 74 years ago.
 
-![콩돌해안, beach on the east side of the island](images/DSC00382.JPG){width=75%}
+![콩돌해안, beach on the east side of the island](images/DSC00382.JPG){width="75%"}
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+#| label: fig-island
+#| fig-cap: "White Wing Island 백령도, the marker is (혜원약국) run by the family"
+
+# Install required package if not already installed
+if (!requireNamespace("leaflet", quietly = TRUE)) install.packages("leaflet")
+
+# Load the leaflet library
+library(leaflet)
+
+# Define the coordinates for Shibuya, Tokyo
+coords <- c(lat = 37.971414985459546, lng = 124.71822589625096)
+
+# Create the leaflet map
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap tiles
+  setView(lng = coords["lng"], lat = coords["lat"], zoom = 14) %>%  # Set view to Shibuya
+  addMarkers(lng = coords["lng"], lat = coords["lat"], 
+             popup = "백령도 (혜원약국), 인천")  # Add a marker with a popup
+```
+
+---
 
 I don't know whether I will step foot on North Korea.
 
-Even if I did, who would guide me to our family's hometown. 
+Even if I did, who would guide me to our family's hometown.
 
 And then if we did meet the extended family, what would the conversation consist of.
 

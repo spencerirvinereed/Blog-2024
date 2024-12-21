@@ -5,8 +5,7 @@ date: "2024-10-25"
 categories: [recollection]
 ---
 
-An option on the Robo Taxi that I would like to see:
-A programmable AI driver with the language of preference.
+An option on the Robo Taxi that I would like to see: A programmable AI driver with the language of preference.
 
 Learned from my travel days, taxi cab drivers are mobile philosophers, if you ask right questions.
 
