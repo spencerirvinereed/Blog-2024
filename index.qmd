@@ -1,5 +1,5 @@
 ---
-title: "Blog2024"
+title: "Attitudes and Longings"
 listing:
   contents: posts
   sort: "date desc"
