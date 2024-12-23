@@ -32,7 +32,7 @@ If the event is considered a failure, who do we blame?
 
 If the event is a success who do we thank?
 
----
+------------------------------------------------------------------------
 
 We have a life coordinators, us and God.
 
