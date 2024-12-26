@@ -117,7 +117,7 @@ leaflet() %>%
              popup = "백령도 (혜원약국), 인천")  # Add a marker with a popup
 ```
 
----
+------------------------------------------------------------------------
 
 I don't know whether I will step foot on North Korea.
 
