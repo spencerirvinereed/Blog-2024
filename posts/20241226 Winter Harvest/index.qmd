@@ -10,7 +10,7 @@ Before the advent of refrigeration and the year round production of vegetables, 
 
 Found a photo of mom, along with her neighbors, making 김치 that will last all of winter.
 
-![Early 70s in 주안. Mother and her helper making 김치](images/Epson_12242024100109-EDIT.jpg){width="65%"}
+![Early 70s in 주안. Mother and helpers making 김치](images/Epson_12242024100109-EDIT.jpg){width="65%"}
 
 The process began with selecting cabbages from wholesalers.
 
@@ -18,7 +18,7 @@ At the time, we lived in 주안 and the supplies for 김치 was not fully availa
 
 Then cabbages would be delivered using 리어카(RearCar/リヤカー).
 
-[I followed the older man, (he looked old, but was not even 50) delivering cabbages home. Pushing the cart on the uphill. It was about a 5km journey, according to Google map, but for a young person, it seemed much longer.]
+[I followed the older man, (he looked old, but probably was not even 50) delivering cabbages home. Pushing the cart on the uphill. It was about a 5km journey, according to Google map, but for a young person, it seemed much longer.]
 
 ```{r}
 #| echo: false
@@ -43,7 +43,6 @@ leaflet() %>%
 
 ```
 
-
 I estimate scores of cabbages, approaching 100 were purchased and delivered.
 
 [It is possible, 김치 was made and divided among families]
@@ -54,7 +53,7 @@ We shared a common wall with the elementary school. Between the wall was a space
 
 > an earthenware vessel with a narrow top and bottom and a bulging middle, used for storing and preserving items
 
-These were good sized potteries. About 3 feet high with a 3 feet diameter at its peak width.  (The actual size may have been smaller, everything seemed bigger when you were young)
+These were good sized potteries. About 3 feet high with a 3 feet circumference at its peak width.  (The actual size may have been smaller, everything seemed bigger when you were young)
 
 ![Spring 1999, 장독 with 항아리, 뱀밭, near 현충사](images/fam180499.jpg)
 
@@ -70,6 +69,6 @@ That was how we survived long winter months during growing up years in 인천.
 
 Full Definition of 김장 from NamuWiki
 
-[겨울](https://namu.wiki/w/%EA%B2%A8%EC%9A%B8 "겨울") 동안 먹을 다량의 [김치](https://namu.wiki/w/%EA%B9%80%EC%B9%98 "김치")를 늦가을이나 초겨울에 담그는 행위 또는 그렇게 담근 김치를 일컫는 말. 주로 11월이나 12월에 김장을 한다.\^\[<https://namu.wiki/w/%EA%B9%80%EC%9E%A5>\]
+[겨울](https://namu.wiki/w/%EA%B2%A8%EC%9A%B8 "겨울") 동안 먹을 다량의 [김치](https://namu.wiki/w/%EA%B9%80%EC%B9%98 "김치")를 늦가을이나 초겨울에 담그는 행위 또는 그렇게 담근 김치를 일컫는 말. 주로 11월이나 12월에 김장을 한다.^[<https://namu.wiki/w/%EA%B9%80%EC%9E%A5>]
 
 The act of making a large quantity of kimchi during late autumn or early winter to be consumed throughout the winter, or the kimchi made in this way. Kimjang is typically done in November or December.
