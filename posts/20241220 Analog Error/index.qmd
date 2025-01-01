@@ -11,9 +11,11 @@ A singer made a mistake during a live performance, she acknowledged it and the p
 
 宇多田ヒカル, the singer who sang - `First Love`, was singing `I LOVE YOU` (Originally sung by 尾崎 豊 Ozaki Yutaka).
 
-About a minute into the song, she seemed to have sung incorrect lyric.
+About a minute into the song, she paused, she seemed to have sung incorrect lyric.
 
-Up to that point, she was pushing her voice to the breaking point.
+\[The song was sung in Japanese, so I am guessing at the exact nature of the error\]
+
+Up to that point, she was pushing her voice near the breaking point.
 
 It was a live performance, after all.
 
@@ -40,6 +42,7 @@ Not trying to repeat but creating a new version of the song.
 ------------------------------------------------------------------------
 
 Both the AI Machine and human beings will make mistakes.
+
 Through regimented error correction, both AI systems and humans will learn and improve over time.
 
 The transition to self-awareness and self-correcting is the vital difference.

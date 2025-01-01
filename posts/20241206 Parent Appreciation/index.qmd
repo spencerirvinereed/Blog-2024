@@ -35,7 +35,7 @@ In short, we take place of our parents.
 
 ![](images/20241009_181739.jpg)
 
----
+------------------------------------------------------------------------
 
 Recall a children story
 
@@ -75,7 +75,7 @@ That life is mostly cloudy, with threats of storm, and few intermingled calm, su
 
 With hint of hopes of spring, a harvest of autumn, but mostly filled with a summer of toil and loneliness of winter.
 
-![Early 70s](images/Epson_12242024102334-EDIT~2.jpg){width=60%}
+![Early 70s](images/Epson_12242024102334-EDIT~2.jpg){width="60%"}
 
 ------------------------------------------------------------------------
 
