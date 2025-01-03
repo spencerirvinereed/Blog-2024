@@ -5,11 +5,13 @@ date: "2024-12-17"
 categories: [remembrance]
 ---
 
-When I lived in Korea, nearly all of life's snapshots were black and white photos.
+Once, nearly all of life's snapshots were black and white photos.
 
-I also remember getting a land-line phone. A black rotary phone with 5 digits, 1 for the station and a 4-digit private number.
+Also remember getting a land-line phone.
 
-We also got a black piano finish entertainment set. It played vinyls or records and we could tune in radio stations.
+A black rotary phone with 5 digits, 1 for the station and a 4-digit private number.
+
+A black, piano-finish entertainment set graced our home. It played vinyls or records and we could tune in radio stations.
 
 Then we got a B&W TV Set. Only a few stations, including the AFKN (American Forces Korean Network) Network.
 
@@ -33,11 +35,11 @@ The guest mentioned, indoor plumbing would have been a luxury item, in the villa
 
 > "...couldn’t remember any names now, able to recognize a few faces"
 
-This was a comment by a colleague from Singapore, when asked about other colleagues.
+This was a comment by a colleague from Singapore, when asked about other colleagues during the turn of the century years.
 
 But if that low resolution, barely distinguishable Black & White photo triggers a memory, it has done its job.
 
-![The author with fellow primary members](images/답동지부%20(1).jpg){width="65%"}
+![답동와드 primary friends](images/답동지부%20(1).jpg){width="65%"}
 
 ------------------------------------------------------------------------
 
@@ -63,6 +65,115 @@ One other aspect of analog, or B&W world was its finite nature.
 
 In the limited material world, we had to use our imagination to play and look forward to the future.
 
+Now days, the spectrum of information is expanding and overflowing. Some experts are alarmed at the pace and breadth of progress, especially AI.
+
+Words from Matthew is comforting,
+
+> Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+
 For now, I am content to learn as much as possible using analog and its derivative, digitized knowledge.
 
+Judiciously accessing on-line and balancing it against, lessons and memories of growing up years.
+
+Relying on the traditions that were taught through my parents and the family
+
 Until a more perfect or excellent way is introduced and adopted.
+
+![](images/FullSizeRender Copy.jpg)
+
+------------------------------------------------------------------------
+
+Here are some common concerns about the advancement of technology, particularly in the field of artificial intelligence (AI):
+
+------------------------------------------------------------------------
+
+### **1. Ethical Concerns**
+
+-   **Bias and Discrimination:**\
+    AI systems can unintentionally perpetuate or amplify existing biases in data, leading to unfair outcomes in areas like hiring, lending, and law enforcement.
+
+-   **Privacy Invasion:**\
+    The use of AI in surveillance and data analysis raises concerns about individual privacy and the potential for misuse of personal data.
+
+-   **Loss of Autonomy:**\
+    As AI makes decisions in critical areas (e.g., healthcare, justice systems), there is concern over humans losing control or being overruled by algorithms.
+
+------------------------------------------------------------------------
+
+### **2. Economic and Social Disruption**
+
+-   **Job Displacement:**\
+    Automation and AI could replace jobs in various sectors, leading to unemployment and economic inequality.
+
+-   **Digital Divide:**\
+    Those without access to advanced technology or skills to work with AI may be left behind, exacerbating socioeconomic disparities.
+
+-   **Dependence on AI:**\
+    Over-reliance on AI systems might reduce critical thinking and problem-solving skills among individuals and organizations.
+
+------------------------------------------------------------------------
+
+### **3. Security Risks**
+
+-   **Cybersecurity Threats:**\
+    AI tools could be used to create sophisticated cyberattacks, such as deepfakes, phishing scams, or hacking systems.
+
+-   **Weaponization of AI:**\
+    The development of autonomous weapons and AI in military applications raises fears of misuse and unintended consequences.
+
+-   **Data Breaches:**\
+    AI systems often rely on vast amounts of sensitive data, which, if breached, could cause widespread harm.
+
+------------------------------------------------------------------------
+
+### **4. Misinformation and Manipulation**
+
+-   **Deepfakes:**\
+    AI-generated videos or audio can be used to create realistic but false content, undermining trust in media and individuals.
+
+-   **Algorithmic Manipulation:**\
+    AI-driven platforms might amplify misinformation or manipulate opinions by targeting users with tailored content.
+
+-   **Erosion of Trust:**\
+    The inability to discern real from artificial content could lead to a general distrust of digital information.
+
+------------------------------------------------------------------------
+
+### **5. Existential Risks**
+
+-   **Superintelligence Concerns:**\
+    The idea of AI surpassing human intelligence raises fears about whether such systems could act against human interests.
+
+-   **Loss of Control:**\
+    Advanced AI systems might evolve or behave in unforeseen ways, making it challenging to regulate or contain their actions.
+
+-   **Ethical Dilemmas:**\
+    Developing AI capable of making moral or ethical decisions may lead to complex philosophical and practical challenges.
+
+------------------------------------------------------------------------
+
+### **6. Regulation and Accountability**
+
+-   **Lack of Oversight:**\
+    Rapid AI advancements often outpace the creation of laws or guidelines, leaving a regulatory void.
+
+-   **Accountability Gaps:**\
+    Determining responsibility when AI systems fail or cause harm can be challenging, especially in multi-party collaborations.
+
+-   **Global Imbalances:**\
+    Unequal regulation across nations might lead to "AI arms races" or exploitation of less regulated regions.
+
+------------------------------------------------------------------------
+
+### **7. Impact on Human Identity**
+
+-   **Loss of Creativity:**\
+    Concerns about AI-generated art, music, and literature overshadowing human creativity and expression.
+
+-   **Human Connection:**\
+    Increased reliance on AI for interaction (e.g., chatbots, virtual assistants) might reduce meaningful human relationships.
+
+-   **Philosophical Questions:**\
+    The potential for AI to mimic consciousness or emotions raises questions about what it means to be human.
+
+------------------------------------------------------------------------
