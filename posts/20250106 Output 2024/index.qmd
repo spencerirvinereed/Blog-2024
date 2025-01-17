@@ -1,0 +1,49 @@
+---
+title: "Writing Output"
+author: "DK"
+date: "2025-01-06"
+draft: yes
+categories: [record]
+---
+
+During 2024 I created 85 possible blog entries in one Project, that I labelled Attitudes & Longings.
+
+In additions, I have 2 other Projects.
+
+Kang and Hwang Family History.
+
+Tails from Trails.
+
+From those projects, I posted 37 times to FB.
+
+I have 359 friends on Facebook.
+
+I probably started 3 to 5 times that figure in my head, on paper, on Obsidian and in R-Studio version of Quarto.
+
+---
+
+What have I gained?
+
+Has anything changed?
+
+A lot and and YES, my view of the situation is sharpening.
+
+Attitudes and Longings
+
+<https://spencerirvinereed.github.io/Blog-2024/>
+
+An Abundant Life
+
+<https://spencerirvinereed.github.io/spencer/>
+
+Trail Inspired Stories
+
+<https://spencerirvinereed.github.io/RC-Trail-Stories/>
+
+Life Begins
+
+<https://oakhi.github.io/Life-Begins-When/>
+
+Family History
+
+<https://spencerirvinereed.github.io/Family_History/>
