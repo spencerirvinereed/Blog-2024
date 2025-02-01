@@ -2,6 +2,7 @@
 title: "Audio Appreciation"
 author: "DK"
 date: "2025-01-05"
+draft: yes
 resources:
   - 두만강.wav
 categories: [music]

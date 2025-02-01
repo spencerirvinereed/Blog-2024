@@ -1,0 +1,155 @@
+---
+title: "A 3-Day Weekend Mindset"
+author: "DK"
+date: "2025-01-18"
+draft: yes
+categories: [future]
+---
+
+I was ready to take the Monday off.
+
+Snow came on time to make it feel like a long, restful weekend.
+
+![](images/DSC_8212%20(1).JPG)
+
+The weekend coincided with Mom's passing 2 years ago.
+
+Small amount at 4500 ft were significantly more at this elevation \~(5100 ft). All of the graves looked the same.
+
+Judging by my memory walked close to the spot.
+
+Noticed there was a flower placed nearby. It was the grave of the family friend.
+
+From there I could find where my parents are buried
+
+![](images/20250118_174341%20(2).jpg)
+
+```{r}
+#| echo: false
+#| message: false
+# Load the leaflet library
+library(leaflet)
+
+# Define the latitude and longitude of the place
+latitude <- 40.298446838888324   # Example: San Francisco
+longitude <- -111.64850669730711
+location_name <- "Eastlawn, Provo Bench"
+
+# Create a Leaflet map with a single marker
+leaflet() %>%
+  addTiles() %>%  # Add the default OpenStreetMap tiles
+  addMarkers(
+    lng = longitude, 
+    lat = latitude, 
+    popup = location_name  # Add a popup displaying the location name
+  ) %>%
+  setView(lng = longitude, lat = latitude, zoom = 15)  # Set the center and zoom level
+
+```
+
+![](images/20250118_174359.jpg)
+
+## Navigation Methods
+
+Before the advent of GPS, navigation relied on various methods that utilized natural elements, celestial bodies, and man-made tools. These techniques have been used throughout history by explorers, mariners, and travelers to find their way.
+
+------------------------------------------------------------------------
+
+### **1. Celestial Navigation**
+
+Celestial navigation involves using the position of celestial bodies—such as the sun, moon, stars, and planets—to determine one’s position on Earth.
+
+-   **Astrolabe**: Used by ancient mariners to measure the altitude of the sun or stars above the horizon.
+-   **Sextant**: A more advanced tool that measures the angle between a celestial body and the horizon. Widely used in the age of exploration.
+-   **North Star (Polaris)**: In the Northern Hemisphere, the North Star was a key reference point for determining direction, as it aligns closely with the Earth's axis of rotation.
+-   **Sun**: Mariners and travelers used the sun’s position to estimate direction and time of day.
+
+------------------------------------------------------------------------
+
+### **2. Dead Reckoning**
+
+Dead reckoning involves estimating current position based on a previously determined position, using speed, elapsed time, and direction of travel.
+
+-   **Log and Line**: Mariners threw a log tied to a line with knots at regular intervals into the water to measure speed.
+-   **Compass**: A magnetic compass was essential for maintaining a steady course.
+-   **Chronometer**: A precise timekeeping device used to calculate longitude by comparing local time with Greenwich Mean Time (GMT).
+
+------------------------------------------------------------------------
+
+### **3. Terrestrial Navigation**
+
+This method relies on landmarks and natural features for navigation.
+
+-   **Maps**: Paper maps were a primary tool for land-based navigation, often used with a compass.
+-   **Landmarks**: Mountains, rivers, and other prominent natural features helped travelers orient themselves.
+-   **Trail Markers**: Travelers often left physical markers, such as cairns (stacks of stones), to guide others or themselves on return trips.
+
+------------------------------------------------------------------------
+
+### **4. Maritime Navigation**
+
+For sea voyages, mariners used a combination of tools and techniques to navigate the open waters.
+
+-   **Sounding Line**: A weighted line used to measure water depth, helping to determine proximity to land.
+-   **Star Charts**: Used for identifying constellations and celestial navigation.
+-   **Wind and Current Knowledge**: Mariners used prevailing wind patterns and ocean currents, such as the Gulf Stream, to plan routes.
+
+------------------------------------------------------------------------
+
+### **5. Inertial Navigation**
+
+Inertial navigation systems (INS) calculate position by measuring changes in motion, typically with gyroscopes and accelerometers.
+
+-   While less accurate over time, INS was useful for aircraft and submarines before GPS became widespread.
+
+------------------------------------------------------------------------
+
+### **6. Radio Navigation**
+
+In the 20th century, radio-based navigation systems became prominent.
+
+-   **LORAN (Long Range Navigation)**: Used low-frequency radio signals from fixed transmitters to determine position.
+-   **Radio Beacons**: Aircraft and ships could use radio signals from beacons to triangulate their position.
+-   **Direction Finders**: Devices that determined the direction of incoming radio signals.
+
+------------------------------------------------------------------------
+
+### **7. Polynesian Navigation**
+
+Polynesian navigators used sophisticated techniques based on natural cues to cross vast ocean distances.
+
+-   **Star Maps**: Memorized patterns of stars rising and setting on the horizon.
+-   **Wave Patterns**: Observed the direction and shape of ocean swells caused by winds and currents.
+-   **Birds and Wildlife**: Noted the presence of specific birds or fish species that indicated proximity to land.
+-   **Cloud Formations**: Certain cloud shapes and colors hinted at islands below.
+
+------------------------------------------------------------------------
+
+### **8. Visual Cues**
+
+Travelers often relied on their observations of natural phenomena.
+
+-   **Shadow Sticks**: Simple tools to determine direction based on the movement of shadows during the day.
+-   **Sunset and Sunrise**: Observed to approximate cardinal directions.
+-   **Moss Growth**: Often used (though not always accurate), moss was thought to grow more on the north side of trees in the Northern Hemisphere.
+
+------------------------------------------------------------------------
+
+### **9. Trail Knowledge and Oral Tradition**
+
+Many cultures relied on oral tradition and passed-down knowledge for navigation.
+
+-   Indigenous peoples often memorized detailed descriptions of routes, landmarks, and seasonal changes.
+-   Songs or stories sometimes encoded navigational information for easier recall.
+
+------------------------------------------------------------------------
+
+### **10. Natural Signs**
+
+-   **Animal Behavior**: Noticing migratory patterns or flight paths of birds (e.g., seabirds returning to nesting areas).
+-   **Wind Direction**: Sailors could navigate by understanding prevailing wind patterns.
+-   **Color of Water**: Changes in water color near reefs or land helped mariners identify shallow areas.
+
+------------------------------------------------------------------------
+
+These methods represent centuries of ingenuity and adaptation to the challenges of travel and exploration. Each technique required skill, practice, and a deep understanding of the environment, laying the groundwork for the sophisticated GPS systems we rely on today.
