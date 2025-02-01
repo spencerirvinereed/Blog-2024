@@ -49,7 +49,7 @@ A story from his life, includes this tidbit.[^4]
 
 [^4]: https://en.wikipedia.org/wiki/Hugh_Nibley
 
-> Two of his colleagues related stories of [him] contributing to a church collection to buy a new overcoat for someone, not realizing that the person was him.
+> Two of his colleagues related stories of \[him\] contributing to a church collection to buy a new overcoat for someone, not realizing that the person was him.
 
 ![](images/LND_D3B6FC38-3474-48E4-8B7B-FA198F4FC2ED-EFFECTS-01.jpg){width="50%"}
 
@@ -71,6 +71,8 @@ The other, reminding us that universe is ever growing and there is room aplenty.
 
 [^5]: https://ctext.org/dao-de-jing
 
-Of the many writings and speeches by that scholar, teach, and defender of faith, perhaps this is most accessible and applicable.^[https://speeches.byu.edu/talks/hugh-nibley/leaders-managers/]
+Of the many writings and speeches by that scholar, teacher, and defender of faith, perhaps this is most accessible and applicable.[^6]
+
+[^6]: https://speeches.byu.edu/talks/hugh-nibley/leaders-managers/
 
 > Leaders are movers and shakers, original, inventive, unpredictable, imaginative, full of surprises that discomfit the enemy in war and the main office in peace. For managers are safe, conservative, predictable, conforming organization men and team players, dedicated to the establishment.

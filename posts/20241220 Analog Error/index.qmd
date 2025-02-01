@@ -13,7 +13,7 @@ A singer made a mistake during a live performance, she acknowledged it and the p
 
 About a minute into the song, she paused, she seemed to have sung incorrect lyric.
 
-\[The song was sung in Japanese, so I am guessing at the exact nature of the error\]
+[The song was sung in Japanese, so I am guessing at the exact nature of the error]
 
 Up to that point, she was pushing her voice near the breaking point.
 
