@@ -20,7 +20,7 @@ I have 359 friends on Facebook.
 
 I probably started 3 to 5 times that figure in my head, on paper, on Obsidian and in R-Studio version of Quarto.
 
----
+------------------------------------------------------------------------
 
 What have I gained?
 
